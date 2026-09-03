@@ -1,11 +1,12 @@
 {
-  "name": "chatback",
+  "name": "exchat",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "next": "latest"
   },
   "scripts": {
     "dev": "next dev",
